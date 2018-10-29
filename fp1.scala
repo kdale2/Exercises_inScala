@@ -149,7 +149,7 @@ object fp1 {
 		accumulator
 	} else if (xs.head > accumulator) {
 		maxTailAux(xs.head, xs.tail)
-}
+ }
 	else {
 		maxTailAux(accumulator, xs.tail)
 	}
