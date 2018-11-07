@@ -1,4 +1,4 @@
-object fp1 {
+object exercises1 {
 
   // EXAMPLE: here is the definition of the factorial function.
   def fact (n : Int) : Int = {
