@@ -1,4 +1,4 @@
-object fp2 {
+object exercises2 {
 
   // EXERCISE 1: complete the following recursive definition of a "map" function
   // for Scala's builtin List type.  You must not use the builtin "map" method.
