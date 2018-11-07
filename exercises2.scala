@@ -1,10 +1,3 @@
-// GENERATED
-/* INSTRUCTIONS
- *
- * Complete the exercises below.  For each "EXERCISE" comment, add
- * code immediately below the comment.
- *
-
 object fp2 {
 
   // EXERCISE 1: complete the following recursive definition of a "map" function
